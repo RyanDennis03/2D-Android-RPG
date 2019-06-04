@@ -1,0 +1,17 @@
+Sprites (Most were made by me, all that weren't are listed below):
+(Golbin was designed by me, zach, and zach deere)
+(All of the below have been resized accordingly by me as well)
+
+https://opengameart.org/content/2d-pixel-cloudy-backgrounds - clouds (background.png resized)
+https://opengameart.org/content/zelda-like-tilesets-and-sprites - player and tile/object sprites.
+https://opengameart.org/content/control-icons - controls
+
+
+
+Music was composed by me using this web applet:
+
+https://pernyblom.github.io/abundant-music/index.html
+
+Exported MIDI then converted into OGG
+
+Credits to Nick (not sure his last name, I believe he is a tutor if it helps any) for teaching me how this works.
